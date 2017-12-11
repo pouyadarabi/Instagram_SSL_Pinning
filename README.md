@@ -32,7 +32,7 @@ Replace libliger.so file in **/data/data/com.instagram.android/lib/**
 
 ~ | Modified APK | ~
 --- | --- | ---
-ARM | [Download](https://github.com/pouyadarabi/Instagram_SSL_Pinning/blob/master/arm/com.instagram.android_24.0.0.11.201_minAPI16(armeabi-v7a)(nodpi).apk) | ~
+ARM | [Download](https://github.com/pouyadarabi/Instagram_SSL_Pinning/blob/master/arm/com.instagram.android_26.0.0.10.86_minAPI16(armeabi-v7a)(nodpi).apk) | ~
 X86 | [Download](https://github.com/pouyadarabi/Instagram_SSL_Pinning/blob/master/x86/com.instagram.android_23.0.0.6.135_minAPI16(x86)(nodpi).apk) | ~
 
 

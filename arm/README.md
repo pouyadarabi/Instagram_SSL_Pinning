@@ -1,6 +1,6 @@
 # Instagram_SSL_Pinning (ROOT REQUIRED)
-Bypassing Instagram SSL pinning for version 24.0.0.11.201| Min API 16 | arm | November 18, 2017
-[Download Link](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-instagram-24-0-0-11-201-80851-release/instagram-24-0-0-11-201-android-apk-download/)
+Bypassing Instagram SSL pinning for version 26.0.0.10.86| Min API 16 | arm | December 9, 2017
+[Download Link](https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-instagram-26-0-0-10-86-83827-release/instagram-26-0-0-10-86-android-apk-download/)
 
 
 #### libliger.so
