@@ -15,9 +15,9 @@ Bypassing Instagram SSL pinning `ARM and X86`
 
 #### Root Method:
 
-Choose your architecture and follow the instructions
-
-Replace libliger.so file in **/data/data/com.instagram.android/lib/**
+1. Download Instagram APK from Apkmirror (*Versions must be equal**)
+2. Choose your architecture and follow the instructions
+3. Replace libliger.so file in **/data/data/com.instagram.android/lib/**
 
 [ARM](https://github.com/pouyadarabi/Instagram_SSL_Pinning/tree/master/arm) | [X86](https://github.com/pouyadarabi/Instagram_SSL_Pinning/tree/master/x86)
 
@@ -32,7 +32,5 @@ Replace libliger.so file in **/data/data/com.instagram.android/lib/**
 
 ~ | Modified APK | Version
 --- | --- | ---
-ARM | [Download](https://github.com/pouyadarabi/Instagram_SSL_Pinning/blob/master/arm/com.instagram.android_26.0.0.10.86_minAPI16(armeabi-v7a)(nodpi).apk) | 26.0.0.10.86
-X86 | [Download](https://github.com/pouyadarabi/Instagram_SSL_Pinning/blob/master/x86/com.instagram.android_23.0.0.6.135_minAPI16(x86)(nodpi).apk) | 23.0.0.6.135
-
-
+ARM | [Download](https://github.com/pouyadarabi/Instagram_SSL_Pinning/blob/master/arm/com.instagram.android_35.0.0.20.96_minAPI16(arm).apk) | 35.0.0.20.96
+X86 | [Download](https://github.com/pouyadarabi/Instagram_SSL_Pinning/blob/master/x86/com.instagram.android_35.0.0.20.96_minAPI16(x86).apk) | 35.0.0.20.96
