@@ -1,3 +1,8 @@
+------
+# Deprecated: Use Facebook whitehat setting
+------
+
+
 # Instagram_SSL_Pinning
 
 
